@@ -2,8 +2,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <html meta charset="UTF-8"/>;
-    <html lang="en">;
-      <h1>hello,welcome to zhenqi's page!</h1>
+<meta charset="UTF-8" />
+<title>Changing Content</title>
+
+
 </head>
+<body>
+<h1>Hello!</h1>
+	<h2>Welcome to zhenqi7788's page!</h2>
+</body>
 </html>
